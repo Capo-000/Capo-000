@@ -79,8 +79,7 @@ Software Developer with experience in mobile application development and digital
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Capo-000&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capo-000&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="./github-stats.svg" width="420" />
 </div>
 
 ---
