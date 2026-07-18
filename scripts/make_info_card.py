@@ -17,20 +17,20 @@ if not STATIC:
 lines.append('</style>')
 lines.append(f'<rect width="{W}" height="{H}" fill="#0d1117" rx="8"/>')
 
-title = "+--[capo@github]---+"
+title = "+--[wesam@github]--+"
 if STATIC:
     lines.append(f'<text x="20" y="30" font-family="monospace" font-size="14" fill="#58a6ff" font-weight="bold">{title}</text>')
 else:
     lines.append(f'<text x="20" y="30" font-family="monospace" font-size="14" fill="#58a6ff" font-weight="bold" class="line" style="animation-delay:0s">{title}</text>')
 
 rows = [
-    (0.1, "cyan",   " |-- Now",    "Penetration Tester / Threat Intel"),
-    (0.2, "green",  " |-- Prev",   "Security Researcher"),
-    (0.3, "yellow", " |-- Stack",  "Python | Go | Rust | KQL | PowerShell"),
-    (0.4, "magenta"," |-- Tools",  "Burp | BloodHound | CobaltStrike | Metasploit"),
-    (0.5, "red",    " |-- Focus",  "Threat Intel | Adversary Emulation | DFIR"),
-    (0.6, "blue",   " |-- Certs",  "OSCP | PNPT | CRTO"),
-    (0.7, "cyan",   " +-- Links",  "capo.io | @capo_00"),
+    (0.1, "cyan",   " |-- Role",   "SOC L2/L3 | Pentester | Dev"),
+    (0.2, "green",  " |-- Stack",  "Flutter | JS | C++ | SQL | Linux"),
+    (0.3, "yellow", " |-- Focus",  "Threat Detection | IR | Adversary Emulation"),
+    (0.4, "magenta"," |-- Tools",  "SIEM | Burp | Kali | Figma | Git"),
+    (0.5, "red",    " |-- Web",    "XSS | SQLi | CSRF | MITM | Session Hijack"),
+    (0.6, "blue",   " |-- Certs",  "MS-365 Fundamentals | Pentesting"),
+    (0.7, "cyan",   " +-- Edu",    "Higher Diploma CS | HIOT 2024"),
 ]
 
 for delay, color, label, value in rows:
