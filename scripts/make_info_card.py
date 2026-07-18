@@ -17,7 +17,7 @@ if not STATIC:
 lines.append('</style>')
 lines.append(f'<rect width="{W}" height="{H}" fill="#0d1117" rx="8"/>')
 
-title = "+--[wesam@github]--+"
+title = "+--[capo@github]--+"
 if STATIC:
     lines.append(f'<text x="20" y="30" font-family="monospace" font-size="14" fill="#58a6ff" font-weight="bold">{title}</text>')
 else:

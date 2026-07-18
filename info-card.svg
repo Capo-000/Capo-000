@@ -7,7 +7,7 @@
 .line { animation: fadeSlide 0.4s ease-out both; }
 </style>
 <rect width="490" height="400" fill="#0d1117" rx="8"/>
-<text x="20" y="30" font-family="monospace" font-size="14" fill="#58a6ff" font-weight="bold" class="line" style="animation-delay:0s">+--[wesam@github]--+</text>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#58a6ff" font-weight="bold" class="line" style="animation-delay:0s">+--[capo@github]--+</text>
   <text x="20" y="50" font-family="monospace" font-size="13" fill="#cyan" class="line" style="animation-delay:0.1s"> |-- Role  </text>
   <text x="200" y="50" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.1s">SOC L2/L3 | Pentester | Dev</text>
   <text x="20" y="88" font-family="monospace" font-size="13" fill="#green" class="line" style="animation-delay:0.2s"> |-- Stack  </text>
