@@ -23,8 +23,6 @@
     <a href="https://github.com/Capo-000"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
   <br />
-  <img src="./contrib-heatmap.svg" width="860" />
-  <br /><br />
 </div>
 
 ---
