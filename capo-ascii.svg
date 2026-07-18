@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="509" viewBox="0 0 480 509">
+<style>
+@keyframes typeRow {
+  0% { clip-path: inset(0 100% 0 0); }
+  100% { clip-path: inset(0 0 0 0); }
+}
+@keyframes cursor {
+  0%, 90% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.row { animation: typeRow 0.6s ease-out both; }
+</style>
+<rect width="480" height="509" fill="#0d1117"/>
+<text x="0" y="0" font-family="monospace" font-size="8" fill="#c9d1d9" font-weight="bold">
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.0s">c#%%%%#####%%#ss**+-.`. `+*=`::. .--c=.  .s: .c==s+=. .-+scc#%s=.  =#%####sc+=**+*c**s%%%#%#cs#s*###</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.04s">+sc*%%##scccc*++*++= =- -* .-`.:.`#+`s+ ..`c` --*+--   -sc#%sss=  :%#sccsc*+==+*=cs+=s%%####c+cccc#s</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.08s">--:*c+ccc=-c+`+s: = +s =@-.s#- *c +@=.c-   =#: :*=   `*ss%#+==*=  -%%s*c+*c=--=****-:c##ccssc+**c*sc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.12s">.-*-=++::-=:-c@=.s`-#.=@= s#c- #@* c@*::    c*:=+-  `*cc#c. ` ++:-*c*+:+:`#*.:-ss+: `+*c****c=+c+cc#</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.16s">+****=`-c=-c@%=.*+:s=c%+-+sc+. +#@-=%%c=`.-.`c=***:`*s##-    `-:`.`- `-.=:=: `+**+===-=*c*c*c++scc++</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.2s">.. .-.-+-`##c` -=-+#+sc+scss*:- :#%c#%#sc+c= -c#s+*scc#=.`:--` .:`+c. ` =c-  `-+ccc--++==--=+:-=-=-:</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.24s">` `=:`++-c%#=`*:*cc-:c-+**ss+-*: =@%@%s##csc` +#c+*c+**+cc+*`  `**#s.`+==*+-=-=*s##=:+sc::=++` =sc**</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.28s">=*##+s%*-#%%cs##%%* `s*ccc*+*+c*=+=*=+cc**s%c:=sccc***+*=. `  `+#cs*.:+=:-*`-**+s%s*c+*s*-::c*=-=#%#</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.32s">c%%c=c#*+#sscs%%%%+.=::css+=+-*+-. .  `:==+c*+=+c#s*cc=+- `+--+sscssc+==+=  *sc*s%s+*++*+-`.*ccc+-c#</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.36s">c--`+c-.::**+c***s` :  +#s==` --     ..-***+`.``-=-=ss  =-*sss##sssc**+ `` -++*c#%s-=+==++**+*+ccscc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.4s">*=.-s.   `c*-==-+*-:*--c#c+sc=s#`.` ..  `:-=-`::--====. `s###s==+=-- `= . =*``+s#%#-=**+++++*+*csc#%</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.44s">**c*s=:-+*+=+**+-.-.=` *c--c*:-- . `=` `-=+--:.``:-=++**ccs%ss=+c*==+*=` `*=` -s##s:=*c***+=+**ccscs</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.48s">#@%s#s*==*s##ssc` :=`  *+-**:      :. -=--+++`.``.-+cc**+++++*scssss#c==.+s=:`-#cc#+-c*ccsc*++**#scc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.52s">%%cs+=- +@%cs##s` :=  `+:`:     .. :++++cs*+:  ` .+=--        --**`-+*+=-cs=-=+c+*%*-****cc*==+c*ccc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.56s">%*=: =- -####%%#: `:  `:      ````.*+*##=:**  :``-=             :c-.   `:cc+--++*+s*:cc+++c=+===c*+*</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.6s">s+= .+: :c*s###s+.     .`:++`++.`-:+sc=-:**::`:=:+c-`:`:`  --:   =#*=-.   .:`-ss*-cs-*s*+=cc+=--+c+=</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.64s">+=- :=  :s+s###c-.:-+++-=+c+*s+:c##%*=s%-.=*`-=.-+c*+++*=  +*+:. .***++=-:`.  -ss*cs++#s*++%cc=-=+++</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.68s">-:  -:  `c=ccs#scc*-``--=*#%@#==c#s*c%%+.==.=-.*-.c*+*cs-  -=-     .++++++=-:.  `c#c+*#c*+-#scs=+c*+</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.72s">.   :.  `+-+*css=..:+*c**c#s#s**s%#csc``*- :+.#*`s`   ..            +*++*++:-=::..:+*+ccc*=c#c#c+*cc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.76s">    .   `-=**+cc=+**++-    .::+*s##**-=%c.:`.*s c# .``  `=-``.  .-.`+==++**+-==`:-:-+++**c**s***-==+</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.8s">        :+*c**s#s+=-.--   `-=++*cs###c@#:*c.-s: *- :+=..-sc=-:  :c*=====++=++`=c-`-s**=:==:...      </tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.84s">     .-+ccc#%%%#scc+=`  =***csssssss#%%cs%-:%+-=:` +#s==*cc*++=-cs**=`:=-=+--*--c=:-+*-..:.         </tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.88s">`-+c###sc****cs##*+-    +++=-:::-+*cs##s#* cc *s =*+**cc=`:  `c*s#-=*  .=-````c*==` `=-*==+-:.      </tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.92s">%%%%##s*+++=---=+:   :-.`    .`:=*csssssc*c#``s-.cs=+*s#*----+#s#sc`+:   =- .`:=++:   `++++s#scc*+=:</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 0.96s">%##s##*++===-==::-=:=++.:. `::--=++++*+*****:== .-- +#%%%@@%%##%#c*=.:.- .=` .`       =+===+cccs#%@@</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.0s">#ss##*=-:::::``-==*++++:s*`::-=+==-==---=`::-:..: .:*s%%sssss#%#*c*=-`:*-.=:        ...=*+-=***+*ccs</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.04s">#s##*:`::=: ..`:--+cssc:-===--=--:--: ``` .  ..:--==*s##%@@@%cscss=`--:=s++=-:`..``  ..+s+-=c+*c*csc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.08s">scc*==-=:-` `:+:`c#cc*+=cc**+:-- :.:   .  .`:-**-==+=*#c+*cc++==%*:  `:.cc+***++++*: `.ss+=+*#+c%cc#</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.12s">ssc+::`c..:-c+:*csc :+:++cc**=` `:-. `:::-=+**s+-==--=+c=-:-+#=+s+s*: ` =c***c**+*c*- :*c==+c*@=*@#:</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.16s">%s=`--:# -:*+-:%*``: c*.cccs*. :=c` :cc****c**s-:::+*==:cc-=ss-c=*%@@#c+*****csscss*+.:=+:-:c`*`.s+=</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.2s">c=+-c:+*:.-:. c- `.-:`+`=*c=  -+#=  *ssssscsccs=+c%%=:`.`c**#=+=c@%%%%%s*+*+*ccss#s**`=+=:. .  #* c@</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.24s">++*:#=-c* -  :-: :..   .-:-= `.*c  `%###ssccccc#@@@%%s=` .*sc:-s%###sc*====++*ccs##cc*-:..   :`ss s%</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.28s">+c++@:-%s+c:..+=          +:  `c`  c%###ssccc***cs###%@#+`:#`:s#ssscc*==-==+***cc#scc*+`     c*.*:=%</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.32s">+s=+%-*%#+#s`+#-  `.  .:.+.  :s: ``ss###scc*****+*csscs#%#c-=sc+*sccc*=====++*ccc#c-+cs*-  .-`%`*#`#</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.36s">+c`*@-+%%+s*:c=   .  :s:-.. =#- ++`ccs##sc*++***++***c***#s+*=+-=cc***+====***ccc#s=:-+**:.`s`c*:@:*</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.4000000000000001s">+*.*#:=s%@c=-``+:   +#+ .=-.c* `s`-csssssc*++***++++++**cs*=-==-+c+*c*+==++cc****##s-:``:=-`++:%.#c+</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.44s">-*.*s+-*#s==.`+c=  .s#.`cc.+s: == *ssss##cc**+****++++*c#s+=+*==+*+*c**+++**c***+####ssccc-::c #-=@*</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.48s">+#-s#s-+csc=:c*-- `#%:.*%= c*  :.=#%sss##scccc*****++=+*cc+--=::+===++++++**+**++#%%#s*===*: c:=#=%s</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.52s">+s-s@%ccc@c=s* :+.+#=`:**.=*.`..=%#s###%#sscc*c***++==+*cc=---:-*==+==+++******+*%%%%%#*=::-`=*-#**%</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.56s">c#c%%scsc%#--` .=c*+c-:*= %*.: :##c*#%%%#sscc*****++=+**s*--`:`-*==+=====+++***+*%%%%%@%#c=`..=-*c*s</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.6s">ss%%#*c*=#%c+   -ccs#:-*:.s:-.`c#++s#%%@#ccsccc*********#c=-:-:-+==++=++==++***=*@%%%%%%%%%#sss*+ccc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.6400000000000001s">#%%#s*+- -cc%:  +%#ss-:+.:=.- -*=*#%%%%%%cccccc*+++****c#*--:-`:+++**+=====+***=+%@%%%%%%%%%%#cs+=cc</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.68s">###sc=:. .*=*- :##ssc--=`=*:=``=s%@%%%%%%c**cc*++++****c%*-+++++*+cssc*+==+**cc++s#@%%%%%%%%%#scc+=*</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.72s">+c#c+=-: :c-==-csscs*-=-:*s`++s@@%%%%%%%c+*cc*****++***c%*`:+*++c*csssc*++*cccc++s:=%@%%%%%###sc*s*=</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.76s">+**`.``..`-::+#%#s*s+--==+c-c#ssss##%%%@=+*c***+*******c%+..--=*scccsc*++=+csc*+*#= =s%%@@%#cc%%#sc=</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.8s">c*-          .c##ccs=`:-+***=+s%%%%%%%%*.c*****++*++**cs%=  .:-=+**csc*+++*csc*++c+ .-#####%%s*c#%+ </tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.84s">c+:.`.       =##s*cs: :=+c=-+c***cs###c. =c***+=++=++*cs%+.``--=++csscsc*=*sssc+-c-`-:s#sc*cssc++*:`</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.8800000000000001s">+-          .s%#c*s*. :=-=+=cs@%##ss##%%:`ccc*=++++***cs%c`--===++*cscccc*=cccc*cs``=*#ccc*c#%%%#+ .</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.92s">+`   `-+***+c#=*c*s+   `**#*+ss*::=*css#* ccc*=+++***ccs%c.`:==+++**cc****-=**++#*-+sssc**c*+ccs=`-.</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 1.96s">=: .+##s*+=+c%##ssc:  .`=#s%+*s%+*csc+*#s+=++==++++***cs#s::`:-=+**ccc*+++=-++==#scc*****+****c+:.--</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 2.0s">+=-*##c=:. `=s%%%#*   `+`c*s%**=c#c+=*s*c+-=====+*****cs##-=---=+*cccsc*++=-+**=s%c**++*cscs##:.=- :</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 2.04s">#ss#%s+-    =*sss%* .`.c==c*#++=*+-:=c--::=+=+=++*****cc##-:-=+++*csssssc++==cc*-. .:css*s#%#:  .. -</tspan>
+  <tspan x="0" dy="9.6" class="row" style="animation-delay: 2.08s">@@@%#s+=:.  -=++c#s=-=`scc#*++=#*++cs*=::-=+==+******ccs##:``-==+*ccs####sc*-*#ss`   .*##ssc`     `+</tspan>
+</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="400" viewBox="0 0 490 400">
+<style>
+@keyframes fadeSlide {
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.line { animation: fadeSlide 0.4s ease-out both; }
+</style>
+<rect width="490" height="400" fill="#0d1117" rx="8"/>
+<text x="20" y="30" font-family="monospace" font-size="14" fill="#58a6ff" font-weight="bold" class="line" style="animation-delay:0s">+--[capo@github]---+</text>
+  <text x="20" y="50" font-family="monospace" font-size="13" fill="#cyan" class="line" style="animation-delay:0.1s"> |-- Now  </text>
+  <text x="200" y="50" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.1s">Penetration Tester / Threat Intel</text>
+  <text x="20" y="88" font-family="monospace" font-size="13" fill="#green" class="line" style="animation-delay:0.2s"> |-- Prev  </text>
+  <text x="200" y="88" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.2s">Security Researcher</text>
+  <text x="20" y="126" font-family="monospace" font-size="13" fill="#yellow" class="line" style="animation-delay:0.3s"> |-- Stack  </text>
+  <text x="200" y="126" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.3s">Python | Go | Rust | KQL | PowerShell</text>
+  <text x="20" y="164" font-family="monospace" font-size="13" fill="#magenta" class="line" style="animation-delay:0.4s"> |-- Tools  </text>
+  <text x="200" y="164" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.4s">Burp | BloodHound | CobaltStrike | Metasploit</text>
+  <text x="20" y="202" font-family="monospace" font-size="13" fill="#red" class="line" style="animation-delay:0.5s"> |-- Focus  </text>
+  <text x="200" y="202" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.5s">Threat Intel | Adversary Emulation | DFIR</text>
+  <text x="20" y="240" font-family="monospace" font-size="13" fill="#blue" class="line" style="animation-delay:0.6s"> |-- Certs  </text>
+  <text x="200" y="240" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.6s">OSCP | PNPT | CRTO</text>
+  <text x="20" y="278" font-family="monospace" font-size="13" fill="#cyan" class="line" style="animation-delay:0.7s"> +-- Links  </text>
+  <text x="200" y="278" font-family="monospace" font-size="13" fill="#c9d1d9" class="line" style="animation-delay:0.7s">capo.io | @capo_00</text>
+</svg>
